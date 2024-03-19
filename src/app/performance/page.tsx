@@ -1,6 +1,3 @@
-
 export default function PerformancePage() {
-  return (
-    <div>PerformancePage </div>
-  );
+  return <div>PerformancePage </div>;
 }
